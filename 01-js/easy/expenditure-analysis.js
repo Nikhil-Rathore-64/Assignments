@@ -15,6 +15,7 @@
 
 function calculateTotalSpentByCategory(transactions) {
   return [];
+  //Random comments
 }
 
 module.exports = calculateTotalSpentByCategory;
